@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writeups/bandits/bandit level 4.md",
+                "file": "writeups/bandits/bandit level 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bandit level 4"
+              "title": "bandit level 5"
             }
           }
         ]
@@ -187,10 +187,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "71195bd0587037c2",
+  "active": "cfcc1bf5bfc0aa10",
   "lastOpenFiles": [
-    "writeups/bandits/bandit level 1.md",
     "writeups/bandits/bandit level 4.md",
+    "writeups/bandits/bandit level 5.md",
+    "writeups/bandits/bandit level 1.md",
     "writeups/bandits/bandit level 3.md",
     "writeups/bandits/bandit level 2.md",
     "writeups/bandits/Bandit level 0.md",
