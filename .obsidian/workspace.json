@@ -187,11 +187,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "cfcc1bf5bfc0aa10",
+  "active": "71195bd0587037c2",
   "lastOpenFiles": [
-    "writeups/bandits/bandit level 2.md",
-    "writeups/bandits/bandit level 4.md",
     "writeups/bandits/bandit level 1.md",
+    "writeups/bandits/bandit level 4.md",
+    "writeups/bandits/bandit level 3.md",
+    "writeups/bandits/bandit level 2.md",
     "writeups/bandits/Bandit level 0.md",
     "writeups/bandits",
     "notes/linux/Untitled.md",
