@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writeups/bandits/bandit level 1.md",
+                "file": "writeups/bandits/bandit level 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bandit level 1"
+              "title": "bandit level 2"
             }
           }
         ]
@@ -189,8 +189,9 @@
   },
   "active": "71195bd0587037c2",
   "lastOpenFiles": [
-    "writeups/bandits/Bandit level 0.md",
     "writeups/bandits/bandit level 1.md",
+    "writeups/bandits/bandit level 2.md",
+    "writeups/bandits/Bandit level 0.md",
     "writeups/bandits",
     "notes/linux/Untitled.md",
     "writeups/vulnhub",
