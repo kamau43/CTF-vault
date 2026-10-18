@@ -7,7 +7,7 @@ The password for the next level is stored in a file somewhere under the **inhere
 
 **approach**
 ls
-cd read the **folder**
+cd change directorythe **folder**
 list files in the folder
 find the file with the above properties by  find . -type f -size 1033c ! -perm -u+x
 

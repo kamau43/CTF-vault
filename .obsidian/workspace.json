@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c139f668b2d10acd",
+        "id": "23415677f9d28819",
         "type": "tabs",
         "children": [
           {
-            "id": "71195bd0587037c2",
+            "id": "94ea07c95abf767e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,7 +187,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "cfcc1bf5bfc0aa10",
+  "active": "94ea07c95abf767e",
   "lastOpenFiles": [
     "writeups/bandits/bandit level 4.md",
     "writeups/bandits/bandit level 5.md",
